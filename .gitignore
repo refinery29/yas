@@ -8,3 +8,4 @@ Yas.egg-info/
 build/
 ubuntu-xenial-16.04-cloudimg-console.log
 yas.env
+yas.yml
